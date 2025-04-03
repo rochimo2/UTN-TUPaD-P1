@@ -15,6 +15,7 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 - Se busca mantener un código limpio, ordenado y bien documentado.  
 
 
-> ¡Recuerda mantener actualizado tu repositorio!
-
-### Cambio en la rama feature-branch
+## CHANGELOG
+### Semana 2
+- Nueva rama agregada: feature-branch
+- Agregué PDF del TP de la unidad 2 y código del TP 1
