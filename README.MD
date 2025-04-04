@@ -17,5 +17,11 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 
 > ¡Recuerda mantener actualizado tu repositorio!
 
-### Cambio en la rama feature-branch
-## Cambio en la rama main
+## CHANGELOG
+### Semana 2
+- Nueva rama agregada: feature-branch
+- Agregué PDF del TP de la unidad 2 y código del TP 1
+
+
+### Semana 3
+- Agregué archivo .py de los ejercicios del tp de condicionales
