@@ -25,3 +25,6 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 
 ### Semana 3
 - Agregué archivo .py de los ejercicios del tp de condicionales
+
+### Semana 4
+- Agregué archivo .py de los ejercicios del tp de estructuras repetitivas
