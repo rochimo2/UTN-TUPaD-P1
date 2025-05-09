@@ -28,3 +28,6 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 
 ### Semana 4
 - Agregué archivo .py de los ejercicios del tp de estructuras repetitivas
+
+### Semana 5
+- Agregué archivo listas.py de los ejercicios del tp de listas
