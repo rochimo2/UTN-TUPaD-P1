@@ -31,3 +31,6 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 
 ### Semana 5
 - Agregué archivo listas.py de los ejercicios del tp de listas
+
+### Unidad funciones
+-Agregue archivo .py con la resolucion de los ejercicios
