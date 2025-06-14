@@ -34,3 +34,6 @@ Este repositorio almacena todas los trabajos prácticos realizados durante la cu
 
 ### Unidad funciones
 -Agregue archivo .py con la resolucion de los ejercicios
+
+### Unidad recursividad
+-Agregue archivo .py con la resolucion de los ejercicios de recursividad
